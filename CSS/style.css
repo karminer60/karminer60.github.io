@@ -98,12 +98,15 @@ a:visited{
  .my-form label{
  display:block;
 }
+
 .footer-forms{
 	text-align: center;
 }
+
 .contact-form{
 	margin-left: 100px;
 }
+
 .image-section{
 	background: rgba(204, 204, 204, 0.5);
 	margin-left: 20px;
