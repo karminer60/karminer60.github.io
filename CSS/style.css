@@ -47,10 +47,13 @@ body{
     	width:350px;
     	float: top;
     	line-height: 40px;
+	font-size: 14px;
+	padding-left: 10px;
+    	padding-right: 10px;
   
 
-	
 }
+
 .post{
 	border-color: #2F2FA2;
 	text-align:center;
